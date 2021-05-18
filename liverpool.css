@@ -33,7 +33,7 @@ body {
 .footer a {
   color: white;
 }
-.header-lv{
+.header{
     width: 100%;
     background-color: var(--lv-color);
     height: 56px;
